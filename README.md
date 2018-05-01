@@ -11,3 +11,5 @@ But unfortunately, I don't have any server or NAS cilents, the possible method i
 However, this repo is for testing and improving funtionality that Abdul can't (like Dialogflow)
 
 <b>UPDATE : HTTPS doesn't work with Abdul because it's Bad Gateway Error (Showing "502" Message) so don't use this repo for testings.</b>
+
+<b>UPDATE 2 : More truble when pushing php code, mostly it's incompatible.</b>
